@@ -2,7 +2,7 @@ from maths import *
 import random
 
 """
-A standard implementation of the RSA2 Algorithm using 64 - bit primes, and RSA1 using .
+A standard implementation of the RSA2 Algorithm using 64 - bit primes, and RSA1 using 56 bit.
 An integer of maximum around 122 - bits can be safely encrypted using this implementation.
 Public and private keys are conjugate pairs.
 If one is used for encryption, other is used for decryption and vice-versa.
